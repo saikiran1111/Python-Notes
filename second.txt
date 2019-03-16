@@ -1,0 +1,4 @@
+Python is Programming language
+Django is a Framework of Python for Web development
+Python is Programming language
+Django is a Framework of Python for Web development

@@ -1,0 +1,3 @@
+Python is Programming language
+Django is a Framework of Python for Web development
+Python can be used to scrap data by using web scraping
